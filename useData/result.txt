@@ -1,1440 +1,280 @@
-Results from s = 1 E = 8 b = 3 t = traces/mmulijk.trace
+Results from s = 1 E = 2000 b = 3 t = traces/mmulijk.trace
 
-hits: 119520  misses: 474500  evictions: 474484
-miss ratio: 79.88%
+hits: 567544  misses: 26476  evictions: 22476
+miss ratio: 4.46%
 
-Results from s = 1 E = 8 b = 4 t = traces/mmulijk.trace
+Results from s = 1 E = 1000 b = 4 t = traces/mmulijk.trace
 
-hits: 291315  misses: 302705  evictions: 302689
-miss ratio: 50.96%
+hits: 577763  misses: 16257  evictions: 14257
+miss ratio: 2.74%
 
-Results from s = 1 E = 8 b = 5 t = traces/mmulijk.trace
+Results from s = 1 E = 500 b = 5 t = traces/mmulijk.trace
 
-hits: 371669  misses: 222351  evictions: 222335
-miss ratio: 37.43%
+hits: 585250  misses: 8770  evictions: 7770
+miss ratio: 1.48%
 
-Results from s = 1 E = 8 b = 6 t = traces/mmulijk.trace
+Results from s = 1 E = 250 b = 6 t = traces/mmulijk.trace
 
-hits: 408679  misses: 185341  evictions: 185325
-miss ratio: 31.20%
+hits: 589174  misses: 4846  evictions: 4346
+miss ratio: 0.82%
 
-Results from s = 1 E = 8 b = 7 t = traces/mmulijk.trace
+Results from s = 1 E = 125 b = 7 t = traces/mmulijk.trace
 
-hits: 430896  misses: 163124  evictions: 163108
-miss ratio: 27.46%
+hits: 591235  misses: 2785  evictions: 2535
+miss ratio: 0.47%
 
-Results from s = 1 E = 8 b = 8 t = traces/mmulijk.trace
+Results from s = 1 E = 62 b = 8 t = traces/mmulijk.trace
 
-hits: 443988  misses: 150032  evictions: 150016
-miss ratio: 25.26%
+hits: 588791  misses: 5229  evictions: 5105
+miss ratio: 0.88%
 
-Results from s = 1 E = 8 b = 9 t = traces/mmulijk.trace
+Results from s = 1 E = 31 b = 9 t = traces/mmulijk.trace
 
-hits: 456958  misses: 137062  evictions: 137046
-miss ratio: 23.07%
+hits: 589316  misses: 4704  evictions: 4642
+miss ratio: 0.79%
 
-Results from s = 1 E = 8 b = 10 t = traces/mmulijk.trace
+Results from s = 2 E = 1000 b = 3 t = traces/mmulijk.trace
 
-hits: 464503  misses: 129517  evictions: 129501
-miss ratio: 21.80%
+hits: 567542  misses: 26478  evictions: 22478
+miss ratio: 4.46%
 
-Results from s = 1 E = 8 b = 11 t = traces/mmulijk.trace
+Results from s = 2 E = 500 b = 4 t = traces/mmulijk.trace
 
-hits: 517394  misses: 76626  evictions: 76610
-miss ratio: 12.90%
+hits: 577762  misses: 16258  evictions: 14258
+miss ratio: 2.74%
 
-Results from s = 1 E = 8 b = 12 t = traces/mmulijk.trace
+Results from s = 2 E = 250 b = 5 t = traces/mmulijk.trace
 
-hits: 592798  misses: 1222  evictions: 1206
-miss ratio: 0.21%
+hits: 585244  misses: 8776  evictions: 7776
+miss ratio: 1.48%
 
-Results from s = 1 E = 8 b = 13 t = traces/mmulijk.trace
+Results from s = 2 E = 125 b = 6 t = traces/mmulijk.trace
 
-hits: 593233  misses: 787  evictions: 771
-miss ratio: 0.13%
+hits: 589172  misses: 4848  evictions: 4348
+miss ratio: 0.82%
 
-Results from s = 1 E = 8 b = 14 t = traces/mmulijk.trace
+Results from s = 2 E = 62 b = 7 t = traces/mmulijk.trace
 
-hits: 593876  misses: 144  evictions: 128
-miss ratio: 0.02%
+hits: 591239  misses: 2781  evictions: 2533
+miss ratio: 0.47%
 
-Results from s = 2 E = 8 b = 3 t = traces/mmulijk.trace
+Results from s = 2 E = 31 b = 8 t = traces/mmulijk.trace
 
-hits: 156472  misses: 437548  evictions: 437516
-miss ratio: 73.66%
+hits: 589303  misses: 4717  evictions: 4593
+miss ratio: 0.79%
 
-Results from s = 2 E = 8 b = 4 t = traces/mmulijk.trace
+Results from s = 3 E = 500 b = 3 t = traces/mmulijk.trace
 
-hits: 304499  misses: 289521  evictions: 289489
-miss ratio: 48.74%
+hits: 567544  misses: 26476  evictions: 22476
+miss ratio: 4.46%
 
-Results from s = 2 E = 8 b = 5 t = traces/mmulijk.trace
+Results from s = 3 E = 250 b = 4 t = traces/mmulijk.trace
 
-hits: 377778  misses: 216242  evictions: 216210
-miss ratio: 36.40%
+hits: 577761  misses: 16259  evictions: 14259
+miss ratio: 2.74%
 
-Results from s = 2 E = 8 b = 6 t = traces/mmulijk.trace
+Results from s = 3 E = 125 b = 5 t = traces/mmulijk.trace
 
-hits: 414844  misses: 179176  evictions: 179144
-miss ratio: 30.16%
+hits: 585244  misses: 8776  evictions: 7776
+miss ratio: 1.48%
 
-Results from s = 2 E = 8 b = 7 t = traces/mmulijk.trace
+Results from s = 3 E = 62 b = 6 t = traces/mmulijk.trace
 
-hits: 435904  misses: 158116  evictions: 158084
-miss ratio: 26.62%
+hits: 589177  misses: 4843  evictions: 4347
+miss ratio: 0.82%
 
-Results from s = 2 E = 8 b = 8 t = traces/mmulijk.trace
+Results from s = 3 E = 31 b = 7 t = traces/mmulijk.trace
 
-hits: 453320  misses: 140700  evictions: 140668
-miss ratio: 23.69%
+hits: 591243  misses: 2777  evictions: 2529
+miss ratio: 0.47%
 
-Results from s = 2 E = 8 b = 9 t = traces/mmulijk.trace
+Results from s = 4 E = 250 b = 3 t = traces/mmulijk.trace
 
-hits: 460511  misses: 133509  evictions: 133477
-miss ratio: 22.48%
+hits: 567544  misses: 26476  evictions: 22476
+miss ratio: 4.46%
 
-Results from s = 2 E = 8 b = 10 t = traces/mmulijk.trace
+Results from s = 4 E = 125 b = 4 t = traces/mmulijk.trace
 
-hits: 467957  misses: 126063  evictions: 126031
-miss ratio: 21.22%
+hits: 577754  misses: 16266  evictions: 14266
+miss ratio: 2.74%
 
-Results from s = 2 E = 8 b = 11 t = traces/mmulijk.trace
+Results from s = 4 E = 62 b = 5 t = traces/mmulijk.trace
 
-hits: 593446  misses: 574  evictions: 542
-miss ratio: 0.10%
+hits: 585244  misses: 8776  evictions: 7784
+miss ratio: 1.48%
 
-Results from s = 2 E = 8 b = 12 t = traces/mmulijk.trace
+Results from s = 4 E = 31 b = 6 t = traces/mmulijk.trace
 
-hits: 593796  misses: 224  evictions: 192
-miss ratio: 0.04%
+hits: 589176  misses: 4844  evictions: 4348
+miss ratio: 0.82%
 
-Results from s = 2 E = 8 b = 13 t = traces/mmulijk.trace
+Results from s = 5 E = 125 b = 3 t = traces/mmulijk.trace
 
-hits: 593926  misses: 94  evictions: 62
-miss ratio: 0.02%
+hits: 567541  misses: 26479  evictions: 22479
+miss ratio: 4.46%
 
-Results from s = 2 E = 8 b = 14 t = traces/mmulijk.trace
+Results from s = 5 E = 62 b = 4 t = traces/mmulijk.trace
 
-hits: 593974  misses: 46  evictions: 14
-miss ratio: 0.01%
+hits: 577766  misses: 16254  evictions: 14270
+miss ratio: 2.74%
 
-Results from s = 3 E = 8 b = 3 t = traces/mmulijk.trace
+Results from s = 5 E = 31 b = 5 t = traces/mmulijk.trace
 
-hits: 168849  misses: 425171  evictions: 425107
-miss ratio: 71.58%
+hits: 585247  misses: 8773  evictions: 7781
+miss ratio: 1.48%
 
-Results from s = 3 E = 8 b = 4 t = traces/mmulijk.trace
+Results from s = 6 E = 62 b = 3 t = traces/mmulijk.trace
 
-hits: 357852  misses: 236168  evictions: 236104
-miss ratio: 39.76%
+hits: 567551  misses: 26469  evictions: 22501
+miss ratio: 4.46%
 
-Results from s = 3 E = 8 b = 5 t = traces/mmulijk.trace
+Results from s = 6 E = 31 b = 4 t = traces/mmulijk.trace
 
-hits: 400048  misses: 193972  evictions: 193908
-miss ratio: 32.65%
+hits: 577766  misses: 16254  evictions: 14270
+miss ratio: 2.74%
 
-Results from s = 3 E = 8 b = 6 t = traces/mmulijk.trace
+Results from s = 7 E = 31 b = 3 t = traces/mmulijk.trace
 
-hits: 512758  misses: 81262  evictions: 81198
-miss ratio: 13.68%
+hits: 567552  misses: 26468  evictions: 22500
+miss ratio: 4.46%
 
-Results from s = 3 E = 8 b = 7 t = traces/mmulijk.trace
+Results from s = 1 E = 2000 b = 3 t = traces/ls.trace
 
-hits: 559440  misses: 34580  evictions: 34516
-miss ratio: 5.82%
+hits: 306884  misses: 21726  evictions: 17726
+miss ratio: 6.61%
 
-Results from s = 3 E = 8 b = 8 t = traces/mmulijk.trace
+Results from s = 1 E = 1000 b = 4 t = traces/ls.trace
 
-hits: 577039  misses: 16981  evictions: 16917
-miss ratio: 2.86%
+hits: 315270  misses: 13340  evictions: 11340
+miss ratio: 4.06%
 
-Results from s = 3 E = 8 b = 9 t = traces/mmulijk.trace
+Results from s = 1 E = 500 b = 5 t = traces/ls.trace
 
-hits: 585915  misses: 8105  evictions: 8041
-miss ratio: 1.36%
+hits: 320351  misses: 8259  evictions: 7259
+miss ratio: 2.51%
 
-Results from s = 3 E = 8 b = 10 t = traces/mmulijk.trace
+Results from s = 1 E = 250 b = 6 t = traces/ls.trace
 
-hits: 593435  misses: 585  evictions: 521
-miss ratio: 0.10%
+hits: 323167  misses: 5443  evictions: 4943
+miss ratio: 1.66%
 
-Results from s = 3 E = 8 b = 11 t = traces/mmulijk.trace
+Results from s = 1 E = 125 b = 7 t = traces/ls.trace
 
-hits: 593761  misses: 259  evictions: 195
-miss ratio: 0.04%
+hits: 324747  misses: 3863  evictions: 3613
+miss ratio: 1.18%
 
-Results from s = 3 E = 8 b = 12 t = traces/mmulijk.trace
+Results from s = 1 E = 62 b = 8 t = traces/ls.trace
 
-hits: 593894  misses: 126  evictions: 62
-miss ratio: 0.02%
-
-Results from s = 3 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593952  misses: 68  evictions: 8
-miss ratio: 0.01%
-
-Results from s = 3 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 4 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 330946  misses: 263074  evictions: 262946
-miss ratio: 44.29%
-
-Results from s = 4 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 412016  misses: 182004  evictions: 181876
-miss ratio: 30.64%
-
-Results from s = 4 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 551992  misses: 42028  evictions: 41900
-miss ratio: 7.08%
-
-Results from s = 4 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 571349  misses: 22671  evictions: 22543
-miss ratio: 3.82%
-
-Results from s = 4 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 581170  misses: 12850  evictions: 12722
-miss ratio: 2.16%
-
-Results from s = 4 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 590590  misses: 3430  evictions: 3302
-miss ratio: 0.58%
-
-Results from s = 4 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593211  misses: 809  evictions: 681
-miss ratio: 0.14%
-
-Results from s = 4 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593657  misses: 363  evictions: 235
-miss ratio: 0.06%
-
-Results from s = 4 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593824  misses: 196  evictions: 68
-miss ratio: 0.03%
-
-Results from s = 4 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593907  misses: 113  evictions: 6
-miss ratio: 0.02%
-
-Results from s = 4 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 4 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 5 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 412099  misses: 181921  evictions: 181665
-miss ratio: 30.63%
-
-Results from s = 5 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 514918  misses: 79102  evictions: 78846
-miss ratio: 13.32%
-
-Results from s = 5 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 552636  misses: 41384  evictions: 41128
-miss ratio: 6.97%
-
-Results from s = 5 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 571728  misses: 22292  evictions: 22036
-miss ratio: 3.75%
-
-Results from s = 5 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 591141  misses: 2879  evictions: 2623
-miss ratio: 0.48%
-
-Results from s = 5 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 592821  misses: 1199  evictions: 943
-miss ratio: 0.20%
-
-Results from s = 5 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593427  misses: 593  evictions: 337
-miss ratio: 0.10%
-
-Results from s = 5 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593695  misses: 325  evictions: 71
-miss ratio: 0.05%
-
-Results from s = 5 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 4
-miss ratio: 0.03%
-
-Results from s = 5 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 5 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 5 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 6 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 442536  misses: 151484  evictions: 150972
-miss ratio: 25.50%
-
-Results from s = 6 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 515448  misses: 78572  evictions: 78060
-miss ratio: 13.23%
-
-Results from s = 6 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 552990  misses: 41030  evictions: 40518
-miss ratio: 6.91%
-
-Results from s = 6 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 589094  misses: 4926  evictions: 4414
-miss ratio: 0.83%
-
-Results from s = 6 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 592078  misses: 1942  evictions: 1430
-miss ratio: 0.33%
-
-Results from s = 6 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 593040  misses: 980  evictions: 468
-miss ratio: 0.16%
-
-Results from s = 6 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593472  misses: 548  evictions: 61
-miss ratio: 0.09%
-
-Results from s = 6 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593701  misses: 319  evictions: 3
-miss ratio: 0.05%
-
-Results from s = 6 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 6 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 6 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 6 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 7 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 442991  misses: 151029  evictions: 150005
-miss ratio: 25.42%
-
-Results from s = 7 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 515857  misses: 78163  evictions: 77139
-miss ratio: 13.16%
-
-Results from s = 7 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 585294  misses: 8726  evictions: 7702
-miss ratio: 1.47%
-
-Results from s = 7 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 590699  misses: 3321  evictions: 2297
-miss ratio: 0.56%
-
-Results from s = 7 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 592333  misses: 1687  evictions: 663
-miss ratio: 0.28%
-
-Results from s = 7 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 593084  misses: 936  evictions: 41
-miss ratio: 0.16%
-
-Results from s = 7 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593474  misses: 546  evictions: 0
-miss ratio: 0.09%
-
-Results from s = 7 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593701  misses: 319  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 7 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 7 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 7 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 7 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 8 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 443600  misses: 150420  evictions: 148372
-miss ratio: 25.32%
-
-Results from s = 8 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 577873  misses: 16147  evictions: 14099
-miss ratio: 2.72%
-
-Results from s = 8 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 588226  misses: 5794  evictions: 3746
+hits: 325406  misses: 3204  evictions: 3080
 miss ratio: 0.98%
 
-Results from s = 8 E = 8 b = 6 t = traces/mmulijk.trace
+Results from s = 1 E = 31 b = 9 t = traces/ls.trace
 
-hits: 591040  misses: 2980  evictions: 932
-miss ratio: 0.50%
+hits: 324506  misses: 4104  evictions: 4042
+miss ratio: 1.25%
 
-Results from s = 8 E = 8 b = 7 t = traces/mmulijk.trace
+Results from s = 2 E = 1000 b = 3 t = traces/ls.trace
 
-hits: 592374  misses: 1646  evictions: 14
-miss ratio: 0.28%
+hits: 306886  misses: 21724  evictions: 17724
+miss ratio: 6.61%
 
-Results from s = 8 E = 8 b = 8 t = traces/mmulijk.trace
+Results from s = 2 E = 500 b = 4 t = traces/ls.trace
 
-hits: 593086  misses: 934  evictions: 0
-miss ratio: 0.16%
+hits: 315272  misses: 13338  evictions: 11338
+miss ratio: 4.06%
 
-Results from s = 8 E = 8 b = 9 t = traces/mmulijk.trace
+Results from s = 2 E = 250 b = 5 t = traces/ls.trace
 
-hits: 593474  misses: 546  evictions: 0
-miss ratio: 0.09%
+hits: 320333  misses: 8277  evictions: 7277
+miss ratio: 2.52%
 
-Results from s = 8 E = 8 b = 10 t = traces/mmulijk.trace
+Results from s = 2 E = 125 b = 6 t = traces/ls.trace
 
-hits: 593701  misses: 319  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 8 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 8 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 8 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 8 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 9 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 567811  misses: 26209  evictions: 22113
-miss ratio: 4.41%
-
-Results from s = 9 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 583584  misses: 10436  evictions: 6340
-miss ratio: 1.76%
-
-Results from s = 9 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 588638  misses: 5382  evictions: 1287
-miss ratio: 0.91%
-
-Results from s = 9 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 591077  misses: 2943  evictions: 5
-miss ratio: 0.50%
-
-Results from s = 9 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 592375  misses: 1645  evictions: 0
-miss ratio: 0.28%
-
-Results from s = 9 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 593086  misses: 934  evictions: 0
-miss ratio: 0.16%
-
-Results from s = 9 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593474  misses: 546  evictions: 0
-miss ratio: 0.09%
-
-Results from s = 9 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593701  misses: 319  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 9 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 9 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 9 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 9 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 10 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 575280  misses: 18740  evictions: 10548
-miss ratio: 3.15%
-
-Results from s = 10 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 584114  misses: 9906  evictions: 1758
-miss ratio: 1.67%
-
-Results from s = 10 E = 8 b = 5 t = traces/mmulijk.trace
-
-hits: 588675  misses: 5345  evictions: 1
-miss ratio: 0.90%
-
-Results from s = 10 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 591077  misses: 2943  evictions: 0
-miss ratio: 0.50%
-
-Results from s = 10 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 592375  misses: 1645  evictions: 0
-miss ratio: 0.28%
-
-Results from s = 10 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 593086  misses: 934  evictions: 0
-miss ratio: 0.16%
-
-Results from s = 10 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593474  misses: 546  evictions: 0
-miss ratio: 0.09%
-
-Results from s = 10 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593701  misses: 319  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 10 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 10 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 10 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 10 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 11 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 575791  misses: 18229  evictions: 2166
-miss ratio: 3.07%
-
-Results from s = 11 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 584153  misses: 9867  evictions: 0
+hits: 323169  misses: 5441  evictions: 4941
 miss ratio: 1.66%
 
-Results from s = 11 E = 8 b = 5 t = traces/mmulijk.trace
+Results from s = 2 E = 62 b = 7 t = traces/ls.trace
 
-hits: 588675  misses: 5345  evictions: 0
-miss ratio: 0.90%
+hits: 324735  misses: 3875  evictions: 3627
+miss ratio: 1.18%
 
-Results from s = 11 E = 8 b = 6 t = traces/mmulijk.trace
+Results from s = 2 E = 31 b = 8 t = traces/ls.trace
 
-hits: 591077  misses: 2943  evictions: 0
-miss ratio: 0.50%
+hits: 325409  misses: 3201  evictions: 3077
+miss ratio: 0.97%
 
-Results from s = 11 E = 8 b = 7 t = traces/mmulijk.trace
+Results from s = 3 E = 500 b = 3 t = traces/ls.trace
 
-hits: 592375  misses: 1645  evictions: 0
-miss ratio: 0.28%
+hits: 306889  misses: 21721  evictions: 17721
+miss ratio: 6.61%
 
-Results from s = 11 E = 8 b = 8 t = traces/mmulijk.trace
+Results from s = 3 E = 250 b = 4 t = traces/ls.trace
 
-hits: 593086  misses: 934  evictions: 0
-miss ratio: 0.16%
+hits: 315271  misses: 13339  evictions: 11339
+miss ratio: 4.06%
 
-Results from s = 11 E = 8 b = 9 t = traces/mmulijk.trace
+Results from s = 3 E = 125 b = 5 t = traces/ls.trace
 
-hits: 593474  misses: 546  evictions: 0
-miss ratio: 0.09%
+hits: 320326  misses: 8284  evictions: 7284
+miss ratio: 2.52%
 
-Results from s = 11 E = 8 b = 10 t = traces/mmulijk.trace
+Results from s = 3 E = 62 b = 6 t = traces/ls.trace
 
-hits: 593701  misses: 319  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 11 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 11 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 11 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 11 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 12 E = 8 b = 3 t = traces/mmulijk.trace
-
-hits: 575838  misses: 18182  evictions: 0
-miss ratio: 3.06%
-
-Results from s = 12 E = 8 b = 4 t = traces/mmulijk.trace
-
-hits: 584153  misses: 9867  evictions: 0
+hits: 323141  misses: 5469  evictions: 4973
 miss ratio: 1.66%
 
-Results from s = 12 E = 8 b = 5 t = traces/mmulijk.trace
+Results from s = 3 E = 31 b = 7 t = traces/ls.trace
 
-hits: 588675  misses: 5345  evictions: 0
-miss ratio: 0.90%
-
-Results from s = 12 E = 8 b = 6 t = traces/mmulijk.trace
-
-hits: 591077  misses: 2943  evictions: 0
-miss ratio: 0.50%
-
-Results from s = 12 E = 8 b = 7 t = traces/mmulijk.trace
-
-hits: 592375  misses: 1645  evictions: 0
-miss ratio: 0.28%
-
-Results from s = 12 E = 8 b = 8 t = traces/mmulijk.trace
-
-hits: 593086  misses: 934  evictions: 0
-miss ratio: 0.16%
-
-Results from s = 12 E = 8 b = 9 t = traces/mmulijk.trace
-
-hits: 593474  misses: 546  evictions: 0
-miss ratio: 0.09%
-
-Results from s = 12 E = 8 b = 10 t = traces/mmulijk.trace
-
-hits: 593701  misses: 319  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 12 E = 8 b = 11 t = traces/mmulijk.trace
-
-hits: 593832  misses: 188  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 12 E = 8 b = 12 t = traces/mmulijk.trace
-
-hits: 593909  misses: 111  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 12 E = 8 b = 13 t = traces/mmulijk.trace
-
-hits: 593953  misses: 67  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 12 E = 8 b = 14 t = traces/mmulijk.trace
-
-hits: 593978  misses: 42  evictions: 0
-miss ratio: 0.01%
-
-Results from s = 1 E = 8 b = 3 t = traces/ls.trace
-
-hits: 113085  misses: 215525  evictions: 215509
-miss ratio: 65.59%
-
-Results from s = 1 E = 8 b = 4 t = traces/ls.trace
-
-hits: 188708  misses: 139902  evictions: 139886
-miss ratio: 42.57%
-
-Results from s = 1 E = 8 b = 5 t = traces/ls.trace
-
-hits: 236770  misses: 91840  evictions: 91824
-miss ratio: 27.95%
-
-Results from s = 1 E = 8 b = 6 t = traces/ls.trace
-
-hits: 263007  misses: 65603  evictions: 65587
-miss ratio: 19.96%
-
-Results from s = 1 E = 8 b = 7 t = traces/ls.trace
-
-hits: 281793  misses: 46817  evictions: 46801
-miss ratio: 14.25%
-
-Results from s = 1 E = 8 b = 8 t = traces/ls.trace
-
-hits: 293633  misses: 34977  evictions: 34961
-miss ratio: 10.64%
-
-Results from s = 1 E = 8 b = 9 t = traces/ls.trace
-
-hits: 303564  misses: 25046  evictions: 25030
-miss ratio: 7.62%
-
-Results from s = 1 E = 8 b = 10 t = traces/ls.trace
-
-hits: 311458  misses: 17152  evictions: 17136
-miss ratio: 5.22%
-
-Results from s = 1 E = 8 b = 11 t = traces/ls.trace
-
-hits: 316774  misses: 11836  evictions: 11820
-miss ratio: 3.60%
-
-Results from s = 1 E = 8 b = 12 t = traces/ls.trace
-
-hits: 319984  misses: 8626  evictions: 8610
-miss ratio: 2.62%
-
-Results from s = 1 E = 8 b = 13 t = traces/ls.trace
-
-hits: 323216  misses: 5394  evictions: 5378
-miss ratio: 1.64%
-
-Results from s = 1 E = 8 b = 14 t = traces/ls.trace
-
-hits: 326709  misses: 1901  evictions: 1885
-miss ratio: 0.58%
-
-Results from s = 2 E = 8 b = 3 t = traces/ls.trace
-
-hits: 154301  misses: 174309  evictions: 174277
-miss ratio: 53.04%
-
-Results from s = 2 E = 8 b = 4 t = traces/ls.trace
-
-hits: 216375  misses: 112235  evictions: 112203
-miss ratio: 34.15%
-
-Results from s = 2 E = 8 b = 5 t = traces/ls.trace
-
-hits: 258164  misses: 70446  evictions: 70414
-miss ratio: 21.44%
-
-Results from s = 2 E = 8 b = 6 t = traces/ls.trace
-
-hits: 281980  misses: 46630  evictions: 46598
-miss ratio: 14.19%
-
-Results from s = 2 E = 8 b = 7 t = traces/ls.trace
-
-hits: 297336  misses: 31274  evictions: 31242
-miss ratio: 9.52%
-
-Results from s = 2 E = 8 b = 8 t = traces/ls.trace
-
-hits: 308206  misses: 20404  evictions: 20372
-miss ratio: 6.21%
-
-Results from s = 2 E = 8 b = 9 t = traces/ls.trace
-
-hits: 315450  misses: 13160  evictions: 13128
-miss ratio: 4.00%
-
-Results from s = 2 E = 8 b = 10 t = traces/ls.trace
-
-hits: 320989  misses: 7621  evictions: 7589
-miss ratio: 2.32%
-
-Results from s = 2 E = 8 b = 11 t = traces/ls.trace
-
-hits: 324211  misses: 4399  evictions: 4367
-miss ratio: 1.34%
-
-Results from s = 2 E = 8 b = 12 t = traces/ls.trace
-
-hits: 325059  misses: 3551  evictions: 3519
-miss ratio: 1.08%
-
-Results from s = 2 E = 8 b = 13 t = traces/ls.trace
-
-hits: 327541  misses: 1069  evictions: 1037
-miss ratio: 0.33%
-
-Results from s = 2 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328487  misses: 123  evictions: 91
-miss ratio: 0.04%
-
-Results from s = 3 E = 8 b = 3 t = traces/ls.trace
-
-hits: 188346  misses: 140264  evictions: 140200
-miss ratio: 42.68%
-
-Results from s = 3 E = 8 b = 4 t = traces/ls.trace
-
-hits: 248305  misses: 80305  evictions: 80241
-miss ratio: 24.44%
-
-Results from s = 3 E = 8 b = 5 t = traces/ls.trace
-
-hits: 284820  misses: 43790  evictions: 43726
-miss ratio: 13.33%
-
-Results from s = 3 E = 8 b = 6 t = traces/ls.trace
-
-hits: 303979  misses: 24631  evictions: 24567
-miss ratio: 7.50%
-
-Results from s = 3 E = 8 b = 7 t = traces/ls.trace
-
-hits: 315464  misses: 13146  evictions: 13082
-miss ratio: 4.00%
-
-Results from s = 3 E = 8 b = 8 t = traces/ls.trace
-
-hits: 319666  misses: 8944  evictions: 8880
-miss ratio: 2.72%
-
-Results from s = 3 E = 8 b = 9 t = traces/ls.trace
-
-hits: 324044  misses: 4566  evictions: 4502
-miss ratio: 1.39%
-
-Results from s = 3 E = 8 b = 10 t = traces/ls.trace
-
-hits: 326496  misses: 2114  evictions: 2050
-miss ratio: 0.64%
-
-Results from s = 3 E = 8 b = 11 t = traces/ls.trace
-
-hits: 327338  misses: 1272  evictions: 1208
-miss ratio: 0.39%
-
-Results from s = 3 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328315  misses: 295  evictions: 231
-miss ratio: 0.09%
-
-Results from s = 3 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328480  misses: 130  evictions: 66
-miss ratio: 0.04%
-
-Results from s = 3 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328529  misses: 81  evictions: 23
-miss ratio: 0.02%
-
-Results from s = 4 E = 8 b = 3 t = traces/ls.trace
-
-hits: 236625  misses: 91985  evictions: 91857
-miss ratio: 27.99%
-
-Results from s = 4 E = 8 b = 4 t = traces/ls.trace
-
-hits: 285770  misses: 42840  evictions: 42712
-miss ratio: 13.04%
-
-Results from s = 4 E = 8 b = 5 t = traces/ls.trace
-
-hits: 306814  misses: 21796  evictions: 21668
-miss ratio: 6.63%
-
-Results from s = 4 E = 8 b = 6 t = traces/ls.trace
-
-hits: 315870  misses: 12740  evictions: 12612
-miss ratio: 3.88%
-
-Results from s = 4 E = 8 b = 7 t = traces/ls.trace
-
-hits: 321656  misses: 6954  evictions: 6826
-miss ratio: 2.12%
-
-Results from s = 4 E = 8 b = 8 t = traces/ls.trace
-
-hits: 325008  misses: 3602  evictions: 3474
-miss ratio: 1.10%
-
-Results from s = 4 E = 8 b = 9 t = traces/ls.trace
-
-hits: 326790  misses: 1820  evictions: 1692
-miss ratio: 0.55%
-
-Results from s = 4 E = 8 b = 10 t = traces/ls.trace
-
-hits: 327766  misses: 844  evictions: 716
-miss ratio: 0.26%
-
-Results from s = 4 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328266  misses: 344  evictions: 216
-miss ratio: 0.10%
-
-Results from s = 4 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328430  misses: 180  evictions: 52
-miss ratio: 0.05%
-
-Results from s = 4 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328501  misses: 109  evictions: 8
-miss ratio: 0.03%
-
-Results from s = 4 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 5 E = 8 b = 3 t = traces/ls.trace
-
-hits: 280243  misses: 48367  evictions: 48111
-miss ratio: 14.72%
-
-Results from s = 5 E = 8 b = 4 t = traces/ls.trace
-
-hits: 301115  misses: 27495  evictions: 27239
-miss ratio: 8.37%
-
-Results from s = 5 E = 8 b = 5 t = traces/ls.trace
-
-hits: 313730  misses: 14880  evictions: 14624
-miss ratio: 4.53%
-
-Results from s = 5 E = 8 b = 6 t = traces/ls.trace
-
-hits: 320961  misses: 7649  evictions: 7393
-miss ratio: 2.33%
-
-Results from s = 5 E = 8 b = 7 t = traces/ls.trace
-
-hits: 324631  misses: 3979  evictions: 3723
-miss ratio: 1.21%
-
-Results from s = 5 E = 8 b = 8 t = traces/ls.trace
-
-hits: 326440  misses: 2170  evictions: 1914
-miss ratio: 0.66%
-
-Results from s = 5 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327501  misses: 1109  evictions: 853
-miss ratio: 0.34%
-
-Results from s = 5 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328095  misses: 515  evictions: 259
-miss ratio: 0.16%
-
-Results from s = 5 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328329  misses: 281  evictions: 40
-miss ratio: 0.09%
-
-Results from s = 5 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 1
-miss ratio: 0.05%
-
-Results from s = 5 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 5 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 6 E = 8 b = 3 t = traces/ls.trace
-
-hits: 292372  misses: 36238  evictions: 35726
-miss ratio: 11.03%
-
-Results from s = 6 E = 8 b = 4 t = traces/ls.trace
-
-hits: 309415  misses: 19195  evictions: 18683
-miss ratio: 5.84%
-
-Results from s = 6 E = 8 b = 5 t = traces/ls.trace
-
-hits: 318692  misses: 9918  evictions: 9406
-miss ratio: 3.02%
-
-Results from s = 6 E = 8 b = 6 t = traces/ls.trace
-
-hits: 323106  misses: 5504  evictions: 4992
-miss ratio: 1.67%
-
-Results from s = 6 E = 8 b = 7 t = traces/ls.trace
-
-hits: 325574  misses: 3036  evictions: 2524
-miss ratio: 0.92%
-
-Results from s = 6 E = 8 b = 8 t = traces/ls.trace
-
-hits: 326988  misses: 1622  evictions: 1110
-miss ratio: 0.49%
-
-Results from s = 6 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327752  misses: 858  evictions: 348
-miss ratio: 0.26%
-
-Results from s = 6 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328147  misses: 463  evictions: 24
-miss ratio: 0.14%
-
-Results from s = 6 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
-
-Results from s = 6 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 6 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 6 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 7 E = 8 b = 3 t = traces/ls.trace
-
-hits: 301530  misses: 27080  evictions: 26056
-miss ratio: 8.24%
-
-Results from s = 7 E = 8 b = 4 t = traces/ls.trace
-
-hits: 313707  misses: 14903  evictions: 13879
-miss ratio: 4.54%
-
-Results from s = 7 E = 8 b = 5 t = traces/ls.trace
-
-hits: 320253  misses: 8357  evictions: 7333
-miss ratio: 2.54%
-
-Results from s = 7 E = 8 b = 6 t = traces/ls.trace
-
-hits: 323944  misses: 4666  evictions: 3642
-miss ratio: 1.42%
-
-Results from s = 7 E = 8 b = 7 t = traces/ls.trace
-
-hits: 326038  misses: 2572  evictions: 1548
-miss ratio: 0.78%
-
-Results from s = 7 E = 8 b = 8 t = traces/ls.trace
-
-hits: 327195  misses: 1415  evictions: 413
-miss ratio: 0.43%
-
-Results from s = 7 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327815  misses: 795  evictions: 14
-miss ratio: 0.24%
-
-Results from s = 7 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328150  misses: 460  evictions: 0
-miss ratio: 0.14%
-
-Results from s = 7 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
-
-Results from s = 7 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 7 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 7 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 8 E = 8 b = 3 t = traces/ls.trace
-
-hits: 305182  misses: 23428  evictions: 21380
-miss ratio: 7.13%
-
-Results from s = 8 E = 8 b = 4 t = traces/ls.trace
-
-hits: 315184  misses: 13426  evictions: 11378
-miss ratio: 4.09%
-
-Results from s = 8 E = 8 b = 5 t = traces/ls.trace
-
-hits: 321047  misses: 7563  evictions: 5515
-miss ratio: 2.30%
-
-Results from s = 8 E = 8 b = 6 t = traces/ls.trace
-
-hits: 324381  misses: 4229  evictions: 2181
-miss ratio: 1.29%
-
-Results from s = 8 E = 8 b = 7 t = traces/ls.trace
-
-hits: 326258  misses: 2352  evictions: 437
-miss ratio: 0.72%
-
-Results from s = 8 E = 8 b = 8 t = traces/ls.trace
-
-hits: 327272  misses: 1338  evictions: 5
-miss ratio: 0.41%
-
-Results from s = 8 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327815  misses: 795  evictions: 0
-miss ratio: 0.24%
-
-Results from s = 8 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328150  misses: 460  evictions: 0
-miss ratio: 0.14%
-
-Results from s = 8 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
-
-Results from s = 8 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 8 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 8 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 9 E = 8 b = 3 t = traces/ls.trace
-
-hits: 306731  misses: 21879  evictions: 17783
-miss ratio: 6.66%
-
-Results from s = 9 E = 8 b = 4 t = traces/ls.trace
-
-hits: 315947  misses: 12663  evictions: 8567
-miss ratio: 3.85%
-
-Results from s = 9 E = 8 b = 5 t = traces/ls.trace
-
-hits: 321501  misses: 7109  evictions: 3020
-miss ratio: 2.16%
-
-Results from s = 9 E = 8 b = 6 t = traces/ls.trace
-
-hits: 324692  misses: 3918  evictions: 398
+hits: 324692  misses: 3918  evictions: 3670
 miss ratio: 1.19%
 
-Results from s = 9 E = 8 b = 7 t = traces/ls.trace
+Results from s = 4 E = 250 b = 3 t = traces/ls.trace
 
-hits: 326335  misses: 2275  evictions: 1
-miss ratio: 0.69%
+hits: 306890  misses: 21720  evictions: 17720
+miss ratio: 6.61%
 
-Results from s = 9 E = 8 b = 8 t = traces/ls.trace
+Results from s = 4 E = 125 b = 4 t = traces/ls.trace
 
-hits: 327272  misses: 1338  evictions: 0
-miss ratio: 0.41%
+hits: 315275  misses: 13335  evictions: 11335
+miss ratio: 4.06%
 
-Results from s = 9 E = 8 b = 9 t = traces/ls.trace
+Results from s = 4 E = 62 b = 5 t = traces/ls.trace
 
-hits: 327815  misses: 795  evictions: 0
-miss ratio: 0.24%
+hits: 320298  misses: 8312  evictions: 7320
+miss ratio: 2.53%
 
-Results from s = 9 E = 8 b = 10 t = traces/ls.trace
+Results from s = 4 E = 31 b = 6 t = traces/ls.trace
 
-hits: 328150  misses: 460  evictions: 0
-miss ratio: 0.14%
+hits: 323117  misses: 5493  evictions: 4997
+miss ratio: 1.67%
 
-Results from s = 9 E = 8 b = 11 t = traces/ls.trace
+Results from s = 5 E = 125 b = 3 t = traces/ls.trace
 
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
+hits: 306893  misses: 21717  evictions: 17717
+miss ratio: 6.61%
 
-Results from s = 9 E = 8 b = 12 t = traces/ls.trace
+Results from s = 5 E = 62 b = 4 t = traces/ls.trace
 
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
+hits: 315261  misses: 13349  evictions: 11365
+miss ratio: 4.06%
 
-Results from s = 9 E = 8 b = 13 t = traces/ls.trace
+Results from s = 5 E = 31 b = 5 t = traces/ls.trace
 
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
+hits: 320286  misses: 8324  evictions: 7332
+miss ratio: 2.53%
 
-Results from s = 9 E = 8 b = 14 t = traces/ls.trace
+Results from s = 6 E = 62 b = 3 t = traces/ls.trace
 
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
+hits: 306882  misses: 21728  evictions: 17760
+miss ratio: 6.61%
 
-Results from s = 10 E = 8 b = 3 t = traces/ls.trace
+Results from s = 6 E = 31 b = 4 t = traces/ls.trace
 
-hits: 307419  misses: 21191  evictions: 12999
-miss ratio: 6.45%
+hits: 315229  misses: 13381  evictions: 11397
+miss ratio: 4.07%
 
-Results from s = 10 E = 8 b = 4 t = traces/ls.trace
+Results from s = 7 E = 31 b = 3 t = traces/ls.trace
 
-hits: 316565  misses: 12045  evictions: 3936
-miss ratio: 3.67%
-
-Results from s = 10 E = 8 b = 5 t = traces/ls.trace
-
-hits: 321883  misses: 6727  evictions: 357
-miss ratio: 2.05%
-
-Results from s = 10 E = 8 b = 6 t = traces/ls.trace
-
-hits: 324737  misses: 3873  evictions: 0
-miss ratio: 1.18%
-
-Results from s = 10 E = 8 b = 7 t = traces/ls.trace
-
-hits: 326335  misses: 2275  evictions: 0
-miss ratio: 0.69%
-
-Results from s = 10 E = 8 b = 8 t = traces/ls.trace
-
-hits: 327272  misses: 1338  evictions: 0
-miss ratio: 0.41%
-
-Results from s = 10 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327815  misses: 795  evictions: 0
-miss ratio: 0.24%
-
-Results from s = 10 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328150  misses: 460  evictions: 0
-miss ratio: 0.14%
-
-Results from s = 10 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
-
-Results from s = 10 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 10 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 10 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 11 E = 8 b = 3 t = traces/ls.trace
-
-hits: 308307  misses: 20303  evictions: 4584
-miss ratio: 6.18%
-
-Results from s = 11 E = 8 b = 4 t = traces/ls.trace
-
-hits: 316977  misses: 11633  evictions: 264
-miss ratio: 3.54%
-
-Results from s = 11 E = 8 b = 5 t = traces/ls.trace
-
-hits: 321908  misses: 6702  evictions: 0
-miss ratio: 2.04%
-
-Results from s = 11 E = 8 b = 6 t = traces/ls.trace
-
-hits: 324737  misses: 3873  evictions: 0
-miss ratio: 1.18%
-
-Results from s = 11 E = 8 b = 7 t = traces/ls.trace
-
-hits: 326335  misses: 2275  evictions: 0
-miss ratio: 0.69%
-
-Results from s = 11 E = 8 b = 8 t = traces/ls.trace
-
-hits: 327272  misses: 1338  evictions: 0
-miss ratio: 0.41%
-
-Results from s = 11 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327815  misses: 795  evictions: 0
-miss ratio: 0.24%
-
-Results from s = 11 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328150  misses: 460  evictions: 0
-miss ratio: 0.14%
-
-Results from s = 11 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
-
-Results from s = 11 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 11 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 11 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
-
-Results from s = 12 E = 8 b = 3 t = traces/ls.trace
-
-hits: 308676  misses: 19934  evictions: 202
-miss ratio: 6.07%
-
-Results from s = 12 E = 8 b = 4 t = traces/ls.trace
-
-hits: 316989  misses: 11621  evictions: 0
-miss ratio: 3.54%
-
-Results from s = 12 E = 8 b = 5 t = traces/ls.trace
-
-hits: 321908  misses: 6702  evictions: 0
-miss ratio: 2.04%
-
-Results from s = 12 E = 8 b = 6 t = traces/ls.trace
-
-hits: 324737  misses: 3873  evictions: 0
-miss ratio: 1.18%
-
-Results from s = 12 E = 8 b = 7 t = traces/ls.trace
-
-hits: 326335  misses: 2275  evictions: 0
-miss ratio: 0.69%
-
-Results from s = 12 E = 8 b = 8 t = traces/ls.trace
-
-hits: 327272  misses: 1338  evictions: 0
-miss ratio: 0.41%
-
-Results from s = 12 E = 8 b = 9 t = traces/ls.trace
-
-hits: 327815  misses: 795  evictions: 0
-miss ratio: 0.24%
-
-Results from s = 12 E = 8 b = 10 t = traces/ls.trace
-
-hits: 328150  misses: 460  evictions: 0
-miss ratio: 0.14%
-
-Results from s = 12 E = 8 b = 11 t = traces/ls.trace
-
-hits: 328334  misses: 276  evictions: 0
-miss ratio: 0.08%
-
-Results from s = 12 E = 8 b = 12 t = traces/ls.trace
-
-hits: 328441  misses: 169  evictions: 0
-miss ratio: 0.05%
-
-Results from s = 12 E = 8 b = 13 t = traces/ls.trace
-
-hits: 328507  misses: 103  evictions: 0
-miss ratio: 0.03%
-
-Results from s = 12 E = 8 b = 14 t = traces/ls.trace
-
-hits: 328545  misses: 65  evictions: 0
-miss ratio: 0.02%
+hits: 306843  misses: 21767  evictions: 17799
+miss ratio: 6.62%
 
