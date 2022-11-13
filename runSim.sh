@@ -15,7 +15,7 @@ do
     	B=$((2**j))
     	E=$((32000/(S*B)))
     	C=$(($S*$E*$B))
-    	if (($C < 33000 && $C > 31000))
+    	if (($C < 33000 && $C > 31000 && i+j <= 15 && E >= 1))
     	then
           echo Results from s = $i E = $E b = $j t = traces/$t
           echo
